@@ -1,0 +1,34 @@
+buttons:
+  primary:
+    width: 160
+    height: 50
+    borderRadius: 5
+    textTransform: uppercase
+    fontWeight: normal
+    border: unset
+    fontFamily: Roboto
+    backgroundColor: "#3e64ff"
+    hoverBgColor: "#b2fcff"
+    hoverColor: "#fff"
+    color: "#fff"
+    fontSize: 12
+  secondary:
+    width: 160
+    height: 50
+    borderRadius: 30
+    borderColor: "#3e64ff"
+    textTransform: uppercase
+    fontWeight: normal
+    backgroundColor: unset
+    borderWidth: 3
+    borderStyle: solid
+    fontFamily: Roboto
+    hoverBgColor: "#3e64ff"
+    hoverColor: "#fff"
+    color: "#3e64ff"
+    fontSize: 12
+colors:
+  black: "#212121"
+  blue: "#5edfff"
+  lightBlue: "#b2fcff"
+  darkBlue: "#3e64ff"
